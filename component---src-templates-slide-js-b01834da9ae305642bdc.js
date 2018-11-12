@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{170:function(e,n,t){"use strict";t.r(n),t.d(n,"query",function(){return i});var r=t(0),a=t.n(r);n.default=function(e){var n=e.data,t=e.transition;return a.a.createElement("div",null,a.a.createElement("div",{style:t&&t.style,dangerouslySetInnerHTML:{__html:n.slide.html}}))};var i="2716726613"}}]);
+//# sourceMappingURL=component---src-templates-slide-js-b01834da9ae305642bdc.js.map

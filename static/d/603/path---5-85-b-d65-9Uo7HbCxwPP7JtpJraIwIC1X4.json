@@ -1,0 +1,1 @@
+{"data":{"slide":{"html":"<h1>💾 Installation</h1>\n<pre><code>npm install --global gatsby-cli\n\ngatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-hello-world\n\ncd gatsby-site\n\ngatsby develop\n</code></pre>\n","index":5}},"pageContext":{"index":5,"absolutePath":"/Users/muhammadasharirfan/Desktop/gatsbyjs-workshop-presentation/src/slides#5"}}
